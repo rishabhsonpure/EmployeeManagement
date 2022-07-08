@@ -1,0 +1,76 @@
+
+ Room1
+220343020001
+220343020015
+.
+ Room2
+220343020016
+220343020030
+
+ Room3
+220343020031
+220343020045
+
+Room4
+220343020046
+220343020060
+
+Room5
+220343020061
+220343020075
+
+Room6
+220343020076
+220343020090
+
+Room7
+220343020091
+220343020105
+
+Room8
+220343020106
+220343020120
+
+
+Using GitHub
+
+1.Create GitHub Account.
+2.Create Public Repository OSS in  your Git Account
+3.Create file using Browser option and commit changes using GUI brwoswer.
+4.Upload certain source code files ( cs or java or js  or txt ) to your public repository .
+5.Share your Shared Repository url to other participants to check it's accessbility.
+6.Modify existing files uploaded and save changes back to repository for existing files.
+7.Check number of cmmits to public repository.		
+8.Check additions or deletions of content from files which are commited ( + , - signs).
+9.Let one team member will play role as Team Leader.
+10.Let team leader will create private Code repository to his/her  Git Account.
+11.Let team leader will uploade certain souce code files to respository and commit those changes.
+12.Let team leader will grant access to other team member by inviting them to join as contributors to private repo.
+13.Ask other team members to accept invitation.
+14.Ensure private repository is accessible for all team members created by team leader.
+15.Allow all team members to add or update source code files to private repository.
+16.Ensure you would commit changes by adding appropriate  comments.
+17.Track changes done by team members.
+18.Explore settings option available to repository.
+19.Change your Git Profile with logo, other information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
